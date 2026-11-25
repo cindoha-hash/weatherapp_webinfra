@@ -5,8 +5,8 @@ A lightweight weather dashboard for planning daily activities, travel and outdoo
 ## Submission links and access
 
 - **Live application:** [http://weather.indataflow.com](http://weather.indataflow.com)
-- **GitHub repository:** TODO — insert public repository URL before submission.
-- **Demo video (maximum 2 minutes):** TODO — insert publicly accessible or unlisted video URL before submission.
+- **GitHub repository:** https://github.com/cindoha-hash/weatherapp_webinfra.git
+- **Demo video (maximum 2 minutes):** 
 - **API key:** Not applicable. Open-Meteo's free non-commercial endpoints do not require an API key ([official terms](https://open-meteo.com/en/terms)).
 - **Login credentials:** Not applicable. The application is public and does not require an account, username or password. Server administration credentials are not required for review and must remain private.
 
